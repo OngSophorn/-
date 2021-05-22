@@ -724,11 +724,11 @@ http://kstv.xyz:8080/Najera/1234/46837
 
 
 #EXTINF:-1  group-title="LIVE MATCH",1
-https://livec.ali.huoxinglaike.com/live/weixingyuan10.m3u8?auth_key=1621668900-58945158ec004dc1af785bcccbe32c8d-0-b5eda09afc2067b63b691ff6595295aa
+https://livec.ali.huoxinglaike.com/live/pptv6_hd.m3u8?auth_key=1621699500-be9febf511824dba8ce5ee2729f27d92-0-d20a7d4dd6497348924290b957d6562b
 #EXTINF:-1  group-title="LIVE MATCH",2
-
+https://livec.ali.huoxinglaike.com/live/PPTVtiyu7_hd.m3u8?auth_key=1621699500-604f501f54254f59bcd103d029b634c0-0-2a6b4c9a593abdac24f3acb38d158056
 #EXTINF:-1  group-title="LIVE MATCH",3
-
+https://livec.ali.huoxinglaike.com/live/PPTV9_hd.m3u8?auth_key=1621699500-a279f035d5b14d60b70e781eb2491691-0-9a0d754995cd766e77605c88da34157e
 #EXTINF:-1  group-title="LIVE MATCH",4
 
 #EXTINF:-1  group-title="LIVE MATCH",5
