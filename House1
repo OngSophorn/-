@@ -563,10 +563,12 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U1240-L.jpg" group-title="SPOTS",True Premier 2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League",3
-
-
-
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2005021U3090-L.jpg" group-title="English Premier League", True Premier 3
+https://mediasv.online/premium/trueepl3/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDM6Mjk6NDAgQU0maGFzaF92YWx1ZT16WFo2ODRQVFZoSjY0ODhoQUVqRnF3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE2JmlkPWNoXzEwNjQ5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPOTS",True Premier 4
+https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png" group-title="SPOTS", True Premier 5
+https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 
 
 
