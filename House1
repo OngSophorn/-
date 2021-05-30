@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-https://livec.ali.huoxinglaike.com/live/weixingyuan2.m3u8?auth_key=1622206500-a22c3d6f352744b6be49f2b2bb1f7a27-0-87c5f716969e7598b6bbbd82a2d1ac0a
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
@@ -116,7 +116,7 @@ https://mediasv.online/premium/bein1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 https://mediasv.online/premium/bein2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDExOjA5OjM4IFBNJmhhc2hfdmFsdWU9YVFmVmZBM2lCTERCdFNqbHllNXdYZz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0xMyZpZD1jaF82MjMyMQ==
 #http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165073
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPOTS",Arena
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_1_cl.png" group-title="SPOTS",Fox 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_cl.png" group-title="SPOTS",Fox 2
@@ -573,15 +573,15 @@ https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", BT 1
-http://app.sekitar.co.id:25461/2bNqHFJFDW/qJjMAZX8mk/52932
+
 #EXTINF:-1 tvg-logo="http://tny.im/oOA" group-title="SPOTS", BT 2
-http://app.sekitar.co.id:25461/2bNqHFJFDW/qJjMAZX8mk/52933
+
 #EXTINF:-1 tvg-logo="http://tny.im/oOB" group-title="SPOTS", BT 3
-http://app.sekitar.co.id:25461/2bNqHFJFDW/qJjMAZX8mk/52936
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/4n29f2u4" group-title="SPOTS", BT EPSN
 http://line.crystalott.net:80/Peddireddy1/AKG9VXMP26/4794
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPOTS", Setana
-http://app.sekitar.co.id:25461/2bNqHFJFDW/qJjMAZX8mk/55211
+
 
 
 
@@ -704,7 +704,7 @@ http://my.odtv.uk:80/iptvlover/128996/129
 
 
 #EXTINF:-1  group-title="LIVE MATCH",1
-https://lived.ali.huoxinglaike.com/live/streamhd8416.m3u8?auth_key=1621774200-0d28949d9ec54dc7b4184f7056d0311b-0-aefb50e32f715c35fffe7f82ca3a5f6a
+
 #EXTINF:-1  group-title="LIVE MATCH",2
 
 #EXTINF:-1  group-title="LIVE MATCH",4
