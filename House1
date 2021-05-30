@@ -77,6 +77,8 @@ http://27.254.130.61/live01/ch1.m3u8?p=st
 http://27.254.130.61/live01/ch2.m3u8?p=st
 #EXTINF:-1 tvg-chno="15" tvg-id="one" group-title="THAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ONE HD
 http://27.254.130.61/live01/ch10.m3u8?p=st
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/th-thai-channel-8-7151.jpg" group-title="THAI",CH8
+https://mediasv.online/live7f/ch8/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjU0OjQzIEFNJmhhc2hfdmFsdWU9T09OOFZHRmEyM0VFK21XZVpxSnJmUT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0xMCZpZD1jaF82Nzk4NQ==
 #EXTINF:-1 tvg-chno="13" tvg-id="mono29" group-title="THAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29 HD
 http://27.254.130.61/live01/ch3.m3u8?p=st
 #EXTINF:-1 tvg-chno="2" tvg-id="nbt" group-title="THAI" tvg-logo="https://www.abu.org.my/images/articles/news/nbt_logo2.jpg",NBT HD
@@ -560,7 +562,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tny.im/oOC" group-title="SPOTS",True Premier 1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+https://mediasv.online/live7f/truepl1Fallback/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjUyOjQyIEFNJmhhc2hfdmFsdWU9NTRwZGtGTmpDSE9KZ1VILzRCbFMyQT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMiZpZD1jaF8zNDE5OQ==
 #EXTINF:-1 tvg-logo="http://tny.im/oOD" group-title="SPOTS",True Premier 2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oOE" group-title="SPOTS", True Premier 3
