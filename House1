@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-https://livec.ali.huoxinglaike.com/live/CCTV5HD.m3u8?auth_key=1622383500-225c7abd435c426e94120cbbf06f5419-0-c0e3bceafff5d359e0311107586df684
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
@@ -33,7 +33,7 @@ http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nsf7hpH/RHM.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|រស្មីហង្សមាស
 http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q9xrS4Z/Bayon.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|បាយ័ន
-
+https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/GkPYCL9/BTV.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|BTV
 https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="កម្ពុជា|Cambodia",កម្ពុជា|CTV8
