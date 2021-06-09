@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-https://lived.ali.huoxinglaike.com/live/streamcnhd26026.m3u8?auth_key=1623071100-2e46e22f63ee4bb6b2d8d5802485d3cf-0-e0838c7aa5dd5eeedf758ffc870901ec
+https://livec.ali.huoxinglaike.com/live/weixingyuan3.m3u8?auth_key=1623202500-dd8553129a17402eb8b9da431b80a88b-0-7dd836661874557c7e83b34f59d879e3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
-https://hls.shqianhan.com/live/27992_1/playlist.m3u8?sign=aaf748a657ed45a09945c8446311cc2e&t=60bf4fbb
+https://lived.ali.huoxinglaike.com/live/streamhd25522.m3u8?auth_key=1623207900-81a2c49cea6f43c88a78a48a0de7b67f-0-30be50a958b227437bce8421e58ef805
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFb3k2RN/ONETV-KIDS-logo-19-05-2018-5.png" group-title="កម្ពុជា|Cambodia",OneTv Kids
