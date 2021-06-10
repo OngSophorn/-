@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-https://lived.ali.huoxinglaike.com/live/streamhd25410.m3u8?auth_key=1623211500-0b6c2e32d26c4eb2b5fa96c6a086aa9d-0-01ad6b056b6e23d6f42a300b8eb88b9d
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
-https://lived.ali.huoxinglaike.com/live/streamhd25522.m3u8?auth_key=1623207900-81a2c49cea6f43c88a78a48a0de7b67f-0-30be50a958b227437bce8421e58ef805
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFb3k2RN/ONETV-KIDS-logo-19-05-2018-5.png" group-title="កម្ពុជា|Cambodia",OneTv Kids
@@ -41,7 +41,7 @@ https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/m4FzpD9/SEA.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|SeaTV
-
+http://96.9.77.79:1935/live/SEATV/chunklist_w1333184112.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Bywy9JK/MSJ.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|MSJTV
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/TPVpPpcM/16195687-978198268947178-3272296313869324786-n.png" group-title="កម្ពុជា|Cambodia",កម្ពុជា|NTV
