@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHVxMWhM/One-TV-Sabay-logo-19-05-2018-2.png" group-title="កម្ពុជា|Cambodia",OneTv Sabay
-https://livec.ali.huoxinglaike.com/live/PPTVtiyu7.m3u8?auth_key=1623983700-9a468468631946ac80661326cd47738b-0-dec77cb72e0d1fae39688c0a522f7656
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncSddLBJ/ONETV-CINEMA-logo-19-05-2018-3.png" group-title="កម្ពុជា|Cambodia",OneTV Cinema
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zq4yp8nK/ONETV-DRAMA-logo-19-05-2018-4.png" group-title="កម្ពុជា|Cambodia",OneTv Drama
@@ -564,7 +564,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oOC" group-title="SPOTS",True Premier 1
 https://mediasv.online/live7f/truepl1Fallback/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjUyOjQyIEFNJmhhc2hfdmFsdWU9NTRwZGtGTmpDSE9KZ1VILzRCbFMyQT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMiZpZD1jaF8zNDE5OQ==
 #EXTINF:-1 tvg-logo="http://tny.im/oOD" group-title="SPOTS",True Premier 2
-https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+https://mediasv.online/premium/trueepl2/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDExOjUyOjQxIEFNJmhhc2hfdmFsdWU9S2pQYjNOV2gydHZVL3FSeEJHUHNpQT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0xNiZpZD1jaF82MzI2OQ==
 #EXTINF:-1 tvg-logo="http://tny.im/oOE" group-title="SPOTS", True Premier 3
 https://mediasv.online/premium/trueepl3/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDM6Mjk6NDAgQU0maGFzaF92YWx1ZT16WFo2ODRQVFZoSjY0ODhoQUVqRnF3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE2JmlkPWNoXzEwNjQ5
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPOTS",True Premier 4
