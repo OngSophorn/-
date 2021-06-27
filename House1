@@ -574,9 +574,9 @@ https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 1
 https://mediasv.online/tvchannel_x1/hd-tsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDEyOjI0OjU3IEFNJmhhc2hfdmFsdWU9R2NkcE82YURKOFZwZ0dBMCtHK25yUT09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yMyZpZD1jaF84NDUzNw==
 #EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 2
-
-#EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 1
-
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 1
 
 #EXTINF:-1 tvg-logo="http://tny.im/oOz" group-title="SPOTS", True HD 1
